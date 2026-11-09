@@ -9,7 +9,7 @@
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figures/framework.png" style="max-width:60%;">
+  <img src="framework.png" style="max-width:60%;">
 </div>
 
 Welcome to FaceShield, your high-fidelity and provable facial privacy protection platform! Here are some key features of our platform:
@@ -61,7 +61,7 @@ We present partial experimental results for FaceShield. For a comprehensive unde
 <div align="center"> 
 </div>
 <div style="text-align:center;">
-  <img src="figures/effect.jpg" style="max-width:60%;">
+  <img src="effect.jpg" style="max-width:60%;">
 </div>
 
 These resources provide a detailed analysis of the training outcomes and offer a deeper understanding of the methodology and findings.
